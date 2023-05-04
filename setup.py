@@ -18,7 +18,7 @@ INSTALL_REQUIRES = ["numpy>=0.18.0", "scikit-learn>=0.19.1", "typing-extensions"
 CHOOSE_INSTALL_REQUIRES = [
     (
         ("opencv-python>=4.0.1", "opencv-contrib-python>=4.0.1", "opencv-contrib-python-headless>=4.0.1"),
-        "opencv-python-headless>=4.0.1",
+        "opencv-python>=4.0.1",
     )
 ]
 
